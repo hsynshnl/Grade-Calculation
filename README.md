@@ -1,4 +1,5 @@
-# not_hessaplama
+# not_hessaplama Turkish Name
+# Grade Calculation
 
 A new Flutter project.
 
